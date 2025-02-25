@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/carrent/static/css/main.c5c39809.css",
-    "main.js": "/carrent/static/js/main.b99eca63.js",
+    "main.js": "/carrent/static/js/main.4a91220e.js",
     "static/media/car-1.jpg": "/carrent/static/media/car-1.a353f475f574ddce32ef.jpg",
     "static/media/userside.PNG": "/carrent/static/media/userside.fa195583701fb805ee11.PNG",
     "static/media/adminside.PNG": "/carrent/static/media/adminside.420f7f2cd3d10fe62a04.PNG",
     "index.html": "/carrent/index.html",
     "main.c5c39809.css.map": "/carrent/static/css/main.c5c39809.css.map",
-    "main.b99eca63.js.map": "/carrent/static/js/main.b99eca63.js.map"
+    "main.4a91220e.js.map": "/carrent/static/js/main.4a91220e.js.map"
   },
   "entrypoints": [
     "static/css/main.c5c39809.css",
-    "static/js/main.b99eca63.js"
+    "static/js/main.4a91220e.js"
   ]
 }
